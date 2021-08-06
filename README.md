@@ -2,8 +2,7 @@
 
 # From NLP to CSS: A Practical Tutorial on using Transformers in your next Research Project
 _This page is an open-repository that provides you with the material from our tutorial on "Transformers, HuggingFace and Social Science Applications"
-which was presented by [Christopher Klamm](https://linktr.ee/chkla), [Moritz Laurer](https://www.ceps.eu/ceps-staff/moritz-laurer/) and [Elliott Ash](https://elliottash.com) on the [7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch)
-(ETH Zurich, 2021, online)._
+which was presented by [Christopher Klamm](https://linktr.ee/chkla), [Moritz Laurer](https://www.ceps.eu/ceps-staff/moritz-laurer/) and [Elliott Ash](https://elliottash.com) on the [7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch)._
 
 ## Overview
 'Transformers' have revolutionised Natural Language Processing (NLP) since 2018. 
