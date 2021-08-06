@@ -19,11 +19,11 @@ to contribute to and benefit from open source transformers and create closer tie
 with the NLP community.
 
 ## Structure
-1. Transformer-based Language Models [Slides tbd]()
+1. Transformer-based Language Models [[Slides]()]
 2. HuggingFace and key NLP tasks and pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing)
 3. Core Transformers classes: tokenizers and models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing)
 4. Training your first model: Loading data and training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing)
-5. Theoretical Background and Social Science Applications [Slides Part 1 tbd]() & [Slides Part 2 tbd]()
+5. Theoretical Background and Social Science Applications [[Slides Part 1]()] & [Slides Part 2 tbd]()
 
 ## Related Resources
 There are many other amazing ressources on this topic. To name just a few, here are some links for further research:
