@@ -27,6 +27,7 @@ with the NLP community.
 ## Related Resources
 There are many other amazing ressources on this topic. To name just a few, here are some links for further research:
 * Noah Smith (2021): Language Models: Challenges and Progress [[Video](https://drive.google.com/file/d/18PnZRcHPsLP6co-Nis-q1eJAn_PleZmI/view)]
+* Sebastian Ruder (2021): Recent Advances in Language Model Fine-tuning [[Link](https://ruder.io/recent-advances-lm-fine-tuning/)]
 
 _____
 _Note: Don't hesitate to send us a message, if something something is broken or if you have further questions._
