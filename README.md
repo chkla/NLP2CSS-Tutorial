@@ -2,6 +2,8 @@
 _This page is an open-repository that provides you with the material from our tutorial on Transformers 🤖, HuggingFace 🤗 and Social Science Applications 👥
 which was presented by [Christopher Klamm](https://linktr.ee/chkla), [Moritz Laurer](https://www.ceps.eu/ceps-staff/moritz-laurer/) and [Elliott Ash](https://elliottash.com) on the [7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch)._
 
+_____
+
 ## Overview
 Transformers have revolutionised Natural Language Processing (NLP) since 2018. 
 From text classification, to text summarization, to translation – the state of the 
@@ -28,9 +30,9 @@ with the NLP community.
 There are many other amazing ressources on this topic. To name just a few, here are some links for further research:
 * Noah Smith (2021): Language Models: Challenges and Progress [[Video](https://drive.google.com/file/d/18PnZRcHPsLP6co-Nis-q1eJAn_PleZmI/view)]
 
-
+_____
 ### Note
 Don't hesitate to send us a message, if something something is broken or if you have further questions.
-_____
+
 Happy learning and stay save 🚀
 Christopher, Moritz and Elliott
