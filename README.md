@@ -31,6 +31,3 @@ There are many other amazing ressources on this topic. To name just a few, here 
 _____
 ### Feedback/ Questions
 Don't hesitate to send us a message, if something something is broken or if you have further questions.
-
-Happy learning and stay save
-Christopher, Moritz and Elliott
