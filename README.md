@@ -3,15 +3,15 @@ _This page is an open-repository that provides you with the material from our tu
 which was presented by [Christopher Klamm](https://linktr.ee/chkla), [Moritz Laurer](https://www.ceps.eu/ceps-staff/moritz-laurer/) and [Elliott Ash](https://elliottash.com) on the [7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch)._
 
 ## Overview
-'Transformers' have revolutionised Natural Language Processing (NLP) since 2018. 
+Transformers have revolutionised Natural Language Processing (NLP) since 2018. 
 From text classification, to text summarization, to translation – the state of the 
 art for most NLP tasks today is dominated by this type of new deep learning model 
 architecture. This tutorial will introduce the participants to this new type of 
 model; will demonstrate how thousands of pre-trained models can easily be 
-used with only five (!) lines of code; outline how they can be used as 
+used with a few lines of code; outline how they can be used as 
 powerful measurement tools in social science using concrete examples 
 and dive deeper into the technical ingredients of transformers. 
-A key part of the tutorial will be the HuggingFace Transformers library and its 
+A key part of the tutorial will be the [HuggingFace](huggingface.com) Transformers library and its 
 open-source community. We hope to light the passion of the text-as-data community 
 to contribute to and benefit from open source transformers and create closer ties 
 with the NLP community.
