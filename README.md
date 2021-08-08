@@ -17,7 +17,7 @@ to contribute to and benefit from open source transformers and create closer tie
 with the NLP community.
 
 ## Structure
-1. Introduction w/o math on transformer-based Language Models [[Slides]()]
+1. Introduction w/o math on transformer-based Language Models [[Slides](https://drive.google.com/file/d/1hQtpWBtDo1GwQJQqOfPeByVTat4UcQhL/view?usp=sharing)] (updated shorter version)
 2. HuggingFace and key NLP tasks and pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing)
 3. Core transformers classes: tokenizers and models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing)
 4. Programming tutorial (Python) to train your first model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vXgjybT0wMIuSV-J5Xt_WCQ0fKupa1QI?usp=sharing)
@@ -29,6 +29,7 @@ There are many other amazing ressources on this topic. To name just a few, here 
 * Noah Smith (2021): Language Models: Challenges and Progress [[Video](https://drive.google.com/file/d/18PnZRcHPsLP6co-Nis-q1eJAn_PleZmI/view)]
 * Sebastian Ruder (2021): Recent Advances in Language Model Fine-tuning [[Link](https://ruder.io/recent-advances-lm-fine-tuning/)]
 * Lena Viota (2021): NLP Course | For You [[Link](https://lena-voita.github.io/nlp_course.html)]
+* Rachel Tatmann (Rasa): [[Video](https://www.youtube.com/watch?v=zMxvS7hD-Ug&t=134s)]
 
 _____
 _Note: Don't hesitate to send us a message, if something is broken or if you have further questions._
