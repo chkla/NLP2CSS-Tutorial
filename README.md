@@ -29,7 +29,9 @@ There are many other amazing ressources on this topic. To name just a few, here 
 * Noah Smith (2021): Language Models: Challenges and Progress [[Video](https://drive.google.com/file/d/18PnZRcHPsLP6co-Nis-q1eJAn_PleZmI/view)]
 * Sebastian Ruder (2021): Recent Advances in Language Model Fine-tuning [[Link](https://ruder.io/recent-advances-lm-fine-tuning/)]
 * Lena Viota (2021): NLP Course | For You [[Link](https://lena-voita.github.io/nlp_course.html)]
-* Rachel Tatmann (Rasa): [[Video](https://www.youtube.com/watch?v=zMxvS7hD-Ug&t=134s)]
+* Rachel Tatmann (2020): NLP for Developers: BERT [[Video](https://www.youtube.com/watch?v=zMxvS7hD-Ug&t=134s)]
+* Jay Alammar (2021): Language Processing with BERT: The 3 Minute Intro (Deep learning for NLP) [[Video](https://www.youtube.com/watch?v=ioGry-89gqE&t=2s)]
+* Melanie Walsh (2021): BERT for Humanists [[Tutorial(]https://melaniewalsh.github.io/BERT-for-Humanists/)]
 
 _____
 _Note: Don't hesitate to send us a message, if something is broken or if you have further questions._
