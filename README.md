@@ -31,7 +31,7 @@ There are many other amazing ressources on this topic. To name just a few, here 
 * Lena Viota (2021): NLP Course | For You [[Link](https://lena-voita.github.io/nlp_course.html)]
 * Pavlos Protopapas, Mark Glickman, and Chris Tanner (2021): CS109b: Advanced Topics in Data Science [[Slides](https://harvard-iacs.github.io/2021-CS109B/)]
 * Jay Alammar (2021): Language Processing with BERT: The 3 Minute Intro (Deep learning for NLP) [[Video](https://www.youtube.com/watch?v=ioGry-89gqE&t=2s)]
-* Melanie Walsh (2021): BERT for Humanists [[Tutorial(https://melaniewalsh.github.io/BERT-for-Humanists/)]
+* Melanie Walsh (2021): BERT for Humanists [[Tutorial](https://melaniewalsh.github.io/BERT-for-Humanists/)]
 * KyungHyun Cho (2020): Language modeling [[Video](https://www.youtube.com/watch?v=3ylAcmHVMv8)]
 * Rachel Tatmann (2020): NLP for Developers: BERT [[Video](https://www.youtube.com/watch?v=zMxvS7hD-Ug&t=134s)]
 * Peter Bloem (2020): Lecture 12.1 Self-attention [[Video](https://www.youtube.com/watch?v=KmAISyVvE1Y)]
